@@ -1,4 +1,4 @@
-import ISSTracker from './ISSTracker';
+import ISSTracker from './components/ISSTracker';
 
 function App() {
 
