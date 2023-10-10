@@ -16,7 +16,7 @@ Run the Project:
 ```
 npm start
 ```
-Open your browser and go to http://localhost:3000 to see the ISS tracker in action.
+Open your browser and go to http://localhost:5173 to see the ISS tracker in action.
 
 # Usage
 
