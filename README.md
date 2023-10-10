@@ -1,8 +1,29 @@
-# React + Vite
+# iss-tracker
+ISS (International Space Station) tracker that displays the ISS's current position, trajectory, and additional information using a 3D model on an interactive map.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Alt text](https://i.imgur.com/2z3MEdY.png)
 
-Currently, two official plugins are available:
+# Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install Dependencies:
+
+```
+npm install
+```
+
+Run the Project:
+
+```
+npm start
+```
+Open your browser and go to http://localhost:5173 to see the ISS tracker in action.
+
+# Usage
+
+The application displays the current position of the ISS in 3D using a GLB model.
+Information about the ISS, such as its name, coordinates, altitude, and velocity, is displayed in the menu.
+The checkbox in the menu can be used to center the ISS on the map.
+
+# Credits
+- **ISS Data**: [Where the ISS at? API](https://wheretheiss.at/w/developer)
+
