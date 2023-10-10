@@ -1,7 +1,7 @@
 # iss-tracker
 ISS (International Space Station) tracker that displays the ISS's current position, trajectory, and additional information using a 3D model on an interactive map.
 
-![](https://i.imgur.com/WrO9zOd.gif)
+![color picker](https://i.imgur.com/WrO9zOd.gif)
 
 # Getting Started
 
